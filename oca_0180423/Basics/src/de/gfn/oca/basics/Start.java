@@ -23,7 +23,7 @@ public class Start {
         
         System.out.println(b);
         //System.out.println(b.wachWas());
-        b.machWas(); //Instanzmethode
+        //b.machWas(); //Instanzmethode
     }
     
 }
